@@ -1,2 +1,3 @@
-# web-sessions
-https://ananya322.github.io/web-sessions/
+# GAME
+
+Fascinating mouse game for initial web sessions.
